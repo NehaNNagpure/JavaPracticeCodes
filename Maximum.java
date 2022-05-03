@@ -12,9 +12,14 @@ class program
 		{
 			System.out.println("iNo2 is greater");
 		}
-		else{
-			System.out.println("iNo3 is greater");
+		else if(iNo1==iNo2 && iNo2==iNo3){
+			System.out.println("all numbers are equal");
 		}
+		else
+		{
+			System.ou.println("iNo3 is greater");
+		}
+			
 
 		
 	}
