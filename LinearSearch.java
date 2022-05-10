@@ -29,7 +29,6 @@ public class LinearSearch
 			}
 			else
 			{
-				
 				int [] arr=new int[iSize];
 				System.out.println("enter the elements of array");
 				for(int i=0;i<iSize;i++)
